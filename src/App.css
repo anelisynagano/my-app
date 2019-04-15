@@ -8,6 +8,11 @@
   pointer-events: none;
 }
 
+.App-logo-2 {
+  animation: App-logo-spin infinite 5s linear;
+  height: 40vmin;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
